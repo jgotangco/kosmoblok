@@ -80,4 +80,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-*Developed by [Jerome Gotangco](https://github.com/jgotangco) · ★ SSSR ★ MOSKVA ★ 1984 ★*
+*Designed and product-directed by [Jerome Gotangco](https://github.com/jgotangco). Developed with [Google Antigravity](https://antigravity.dev) / Gemini.*
+
+★ SSSR ★ MOSKVA ★ 1984 ★
