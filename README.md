@@ -7,6 +7,8 @@ A Soviet space-themed, Famicom-style block-stacking game built as a single self-
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 ![Made with HTML5 Canvas](https://img.shields.io/badge/Made%20with-HTML5%20Canvas-cc0000)
 
+![KOSMOBLOK](docs/kosmoblok-screenshot.png)
+
 ---
 
 ## 🎮 Features
