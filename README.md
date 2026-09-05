@@ -16,8 +16,8 @@ A Soviet space-themed, Famicom-style block-stacking game built as a single self-
 - **Ghost piece** — shows where the block will land
 - **Soviet space background** — animated Kremlin silhouette, flying rockets, Sputnik satellites, hammer & sickle symbols, Soviet red stars, and orbit trails
 - **Animated Matryoshka doll** — blinking eyes that look left, right, up, and down with smooth interpolation
-- **Chiptune music** — Korobeiniki (Tetris Theme A) generated via Web Audio API using square wave + triangle bass + noise percussion
-- **Sound effects** — land, rotate, line clear, Tetris (4-line), and game over
+- **Chiptune music** — Korobeiniki generated via Web Audio API using square wave + triangle bass + noise percussion
+- **Sound effects** — land, rotate, line clear, KOSMOBLOK! (4-line), and game over
 - **10 speed levels** — increases every 10 lines cleared
 - **CRT scanline overlay** — authentic retro feel
 
